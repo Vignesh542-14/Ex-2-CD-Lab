@@ -79,7 +79,8 @@ return 0;
 ```
 
 # OUTPUT
-<img width="776" height="384" alt="562043363-de3b51b1-a515-4156-bf95-0343d5b137ad" src="https://github.com/user-attachments/assets/45104e2d-27d9-4ec4-98c7-9336988dfcb6" />
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/0ee7b27d-a784-4c46-819e-891d7a75dcc0" />
+
 
 
 
